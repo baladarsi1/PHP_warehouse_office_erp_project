@@ -1,0 +1,2 @@
+# Use PHP54 Single php.ini as default
+AddHandler application/x-httpd-php54s .php

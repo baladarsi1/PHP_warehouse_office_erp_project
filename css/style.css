@@ -1,0 +1,67 @@
+body{ margin:0; padding:0; font-family:"Trebuchet MS",sans-serif,Arial, Helvetica, sans-serif; background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/1.png) repeat-y scroll center center transparent; margin:0 auto; background-color:#DEDEDE; }
+.changes_wrap{ width:980px; margin:auto; background-color:#fff; overflow:hidden;}
+a:active {
+  outline: none !important;
+}
+a:focus { -moz-outline-style: none; }
+:-moz-any-link:focus {
+  outline: none;
+}
+.img1 {  width:252px;}
+#wrap { width:450px;margin:auto;overflow:hidden;margin-top:10px;}
+.vmkoffice_wrap{float:left;width:450px;text-align:center; padding-bottom:21px;}
+.vmkoffice_wrap1{float:left;}
+.vmkoffice_wrap2{ clear:both; text-align:center; background:#23a8ed; color:#fff; border-radius:4px 4px 0 0; padding:8px 0;}
+.vmkoffice_wrap_new{background:#272729; border-radius:0 0 4px 4px; border:2px solid #23a8ed;}
+.head { color: #2AB323;padding-top:27px; font-size:26px;}
+.head1{ padding:0; margin:0;}
+
+label {   color: #fff;}
+.form1 input[type="text"],.form1 input[type="password"] {
+    margin-top: 10px;
+	border:2px solid #DEDEDE;
+	color:#272729;
+ }
+ select{border:2px solid #DEDEDE; color:#272729;}
+.form1 {
+  line-height: 70px;
+   width: 324px;
+	margin:auto;
+}
+#login {
+   background:#23a8ed !important;
+	background-size:20px !important;
+     cursor:pointer; 
+    color: #FFFFFF;
+	border:none;
+	border-radius:5px;
+	padding:5px 10px;
+	font-weight:bold;
+	
+
+}
+.login{ clear:both; text-align:center; padding-bottom:20px;}
+.dep{ clear:both;}
+.check1{ text-align:center; clear:both; line-height:48px; padding-bottom:12px;}
+.check {   width: 150px;}
+
+.span1
+{
+	color:red;
+}
+#error{color:red; text-align:center; padding-bottom:12px; font-weight:bold; font-size:22px;}
+.vmkoffice_wrap3 label,.vmkoffice_wrap4 label{float:left; width:110px; margin-top:-9px;}
+.vmkoffice_wrap5 label{float:left; width:110px; margin-top:-20px;}
+.vmkoffice_wrap4 input{ margin-left:6px;}
+.vmkoffice_wrap5 select{ margin-left:3px; width:155px !important; height:30px !important;}
+.vmkoffice_wrap5{ padding-top:8px;}
+label.error { color: red; margin-left:155px; width:300px; margin-top:-39px; font-size:12px;  }
+input[type='text'],input[type='password'],select{width:150px; height:24px;}
+.user_logo_new{ background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/19.png); background-repeat:no-repeat; height:46px; float:left; width:45px; margin-top:4px; background-size:46px 46px;}
+.pass_logo_new{ background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/18.png); background-repeat:no-repeat; height:46px; float:left; width:39px; margin-top:4px; background-size:46px 46px;}
+.dep_logo_new{ background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/17.png); background-repeat:no-repeat; height:46px; float:left; width:38px; margin-top:-5px; margin-left:4px; background-size:42px 42px;}
+.vmkoffice_wrap4,.vmkoffice_wrap5{ clear:both;}
+.vmkoffice_wrap3{padding-top:20px;}
+
+
+

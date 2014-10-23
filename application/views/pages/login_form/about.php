@@ -1,0 +1,5 @@
+<div id="title">
+<h2>Hi all, Welcome to VMK Software Solutions Pvt.Ltd</h2>
+<p class="para">Here is our Internal Project.VMK Internal Project helps us to plan a schduled and systematic processs of work flow to complete a task in short span of time by our hardwork and dedication.Each and every menu item shows some information regarding the work assigning to you or to others by you.Mainly here we have 3 categories onwhich based on their priority levels they can access and can view the data.Only the management have the access to all the work flow and other details regarding the company and employees.coming to the employees they can access their self details(holidays,probation period,leaves etc....),track details,events.And also email accounts are provide which help to share information within the company.Make correct use of it and develop ones own Development skills</p>
+
+</div>

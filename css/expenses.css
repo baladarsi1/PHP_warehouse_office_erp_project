@@ -1,0 +1,431 @@
+body{padding:0; margin:0; font-family:"Trebuchet MS",sans-serif,Arial; background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/1.png) repeat-y scroll center center transparent; margin:0 auto; background-color:#DEDEDE; }
+a,  a:visited, a:active {
+   border:none;
+   outline:none;
+}
+a:focus { -moz-outline-style: none; }
+:-moz-any-link:focus {
+  outline: none;
+  
+}
+#wrap
+{
+	margin:auto;
+	width:980px;
+	background-color:#fff;
+	
+	padding-bottom:30px;
+	/*height:800px;*/
+	
+	overflow:hidden;
+}
+.logo
+{
+	height:100px;
+	padding:30px 20px 1px 20px;
+	float:left;
+}
+
+.img
+{
+	height:100px;
+	/**width:0px;**/
+}
+
+#menu
+{
+background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/13.png); background-position:center; clear:both; overflow:hidden;
+background-repeat:repeat-x; height:57px; background-size:auto 127px;	
+}
+
+#menu .fresh_menu a
+{
+		text-transform:uppercase;
+	text-decoration:none;
+	color:#fff;
+	float:left;
+	text-align:center;
+	font:500 12px "Trebuchet MS",sans-serif;
+	color:#272729;
+	height:58px;
+	border-right:1px solid #c2c1c1;
+	padding-right:4px;
+	
+}
+#header{ padding-bottom:66px;}
+
+#menu div img{ margin-top:10px; width:32px; height:33px;}
+
+#submenu
+{
+	
+	overflow:hidden;
+	width:980px;
+}
+#submenu ul
+{
+	list-style-type:none;
+	margin:0;
+	
+	
+}
+#submenu ul li
+{
+	float:left;
+	margin:5px;	
+}
+#submenu li a
+{
+	padding:5px 11px;
+}
+#submenu li a,.link
+{
+	color:#272729 !important;
+	text-decoration:none;
+	background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/13.png) repeat-x;	
+    border-radius:5px;
+	background-position:center;
+	font:500 13px "Trebuchet MS",sans-serif;
+	text-transform:uppercase;
+	border:1px solid #DDDDDD !important;
+	
+}
+td{ font-size:14px !important;}
+th{ text-transform:uppercase;}
+.mouse_over_new{text-decoration:none; color:#23a8ed	 !important;}
+.mouse_over_new:hover{ text-decoration:underline;}
+table
+{
+/*margin:20px;*/
+border-collapse:collapse;
+
+ }
+td
+{
+	color:#272729;
+	font-size:14px;
+	padding:6px;
+	vertical-align:top;
+}
+a{ color:#272729;}
+/*table tr:nth-child(odd) { background-color: #0078A7; }
+table tr:nth-child(even) { background-color: ##349781; }*/
+form td{
+padding:13px 3px 2px 10px;
+	}
+.dt3
+{
+	width:120px;
+}
+.vmkoffice_divs3{margin-left:104px; width:207px !important;}
+.vmkoffice_divs4{margin-left:70px; width:207px !important;}
+.vmkoffice_divs5{margin-left:107px !important;}
+.vmkoffice_divs1{margin-left:102px; width:207px !important;}
+.vmkoffice_divsa1{ width:207px !important;}
+.vmkoffice_divs2{margin-left:108px; width:207px !important;}
+.vmkoffice_mainone{ margin-left:261px; line-height:48px; padding-top:8px;}
+.vmkoffice_mainone_accounts{padding-left:42px;}
+.vmkoffice_divs textarea{ margin-left:60px; margin-top:9px;}
+.vmkoffice_datepicker{ position:relative; left:-212px; width:240px !important; height:29px; }
+#datepicker2,#datepicker3,#datepicker,#datepicker1{ margin-left:-217px;width:240px !important; height:29px; }
+.vmkoffice_labels_account{ width:151px; float:left; margin-top:16px;}
+.vmkoffice_inputs_account{ width:318px; float:left;}
+.vmkoffice_mainone_accounts input,.vmkoffice_mainone_accounts select{ margin-top:20px;}
+
+
+.vmkoffice_labels_account label,.vmkoffice_divs_account input{ line-height:30px;}
+p
+{
+	margin:0;
+}
+input[type='submit'],input[type='button'],input[type='reset']{ cursor:pointer; border-radius:5px;  border:none; padding:5px; font-size:15px;color:#fff;}
+
+input[type='text'],select
+{
+	background:url("http://www.vmkoffice.vmksoftwaresolutions.com/images/10.png") repeat scroll 53px 111px / 99px auto transparent;
+	height:26px;
+	width:239px;
+	font-size:15px;
+	border-radius:2px;
+	margin-right:7px;
+}
+textarea
+{
+	background:-moz-linear-gradient(top, #fff, #ededed);
+	background:-webkit-gradient(linear,left top,left bottom,from(#fff),to(#ededed));
+	filter:progid:DXImageTransform.Microsoft.gradient(startcolorstr="#ffffff",endcolorstr="#ededed");
+    width:239px;
+	border:1px solid #272729;
+	border-radius:2px;
+	font-size:15px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.dt2
+{
+	
+	height:30px;
+	
+}
+input,select
+{
+	border:1px solid #ddd;
+	color:#272729;
+}
+.task_show1 select{border:1px solid #469663;
+	color:#469663;}
+#footer p
+{
+	margin:0;
+}
+.row
+{
+	background:#23a8ed ;
+	background-size:20px !important;
+}
+h4
+{
+	margin:3px;
+	 color:#727272;
+	 text-align:center;
+}
+h2{text-align:center; color:#23a8ed ;  font-size:23px;}
+#link{float:left;margin:10px 22px 30px 10px;}
+#link a{color:#fff;}
+.link{padding:5px 15px;}
+th{color:#fff;  padding:8px 3.4px; font-size:12px;}
+#expensestable{margin: auto;  clear:both; }
+/*#formtable{margin-top:50px;}*/
+#submenu ul li a{color:#fff;}
+.access{color:red; text-align:center; height:150px; margin-top:30px;}
+.welcome{color:#23a8ed; font: 500 16px "Trebuchet MS",sans-serif; margin:20px 0;}
+.place{padding-right:26px;}
+.user{padding-right:26px;  }
+.user a{ color:#469663; text-decoration:none;}
+h3{ color:#469663; font-size:24px; margin-left:-27px; }
+.sele{border:1px solid #272729; color:#272729;}
+.sub{background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/9.png) repeat-x !important; border:1px solid #469663; color:#fff; border-radius:5px; cursor:pointer; }
+.sel{width:241px; color:#272729; border:1px solid #272729; height:30px;}
+textarea
+{
+	color:#272729;
+	margin-right:7px;
+}
+img{ background:none; border:none;}
+#form1{ min-height:120px;}
+.para{color:#272729; line-height:23px;font:500 14px "Trebuchet MS",sans-serif;padding:20px 40px; text-align:justify; line-height:21px;}
+.para1{color:#272729;font:500 16px "Trebuchet MS",sans-serif;text-align:justify; }
+.para1{font-size:16px; margin-bottom:0; padding-bottom:13px; text-align:center;}
+.entrytab{margin-left:13px; margin-top:26px;}
+.formnew input[type='text'],.formnew textarea{ float:right;}
+.formnew textarea{ width:180px;}
+label{color:#272729; font-size:14px;  }
+.formnew{ position:relative; left:240px; width:400px; top:20px;}
+.sub
+{
+	background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/9.png) repeat !important;
+	background-size:20px !important;
+     cursor:pointer; 
+	 color:#fff !important;
+	}
+	.but{ margin-left:225px; }
+.invioce{width:980px; margin-top:30px;}
+.leftinv{width:500px; float:left; margin-left:50px;}
+.rightinv{float:right; width:400px;}
+.pay{width:980px;}
+.totam{float:left; width:290px; margin-left:30px;}
+.paida{float:left; width:290px;}
+.balam{float:left; width:340px;}
+.print{ margin-left:30px; overflow:hidden; padding:30px;}
+.lpay{background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/9.png) repeat-x !important; color:#fff; border-radius:5px; padding:5px;}
+#target{ color:#fff; text-decoration:none;}
+.print1{float:left; width:200px;}
+.print2{float:left; width:200px;}
+.print3{float:left; width:200px;}
+.print4{float:left; width:200px;}
+.amou{ border-color: 1px solid #4A9509; margin-left:30px;}
+.lis{ border-color: 1px solid #4A9509; margin-left:25px;}
+#user{ text-align:center; padding-top:6px; padding-right:8px; float:right; min-width:700px;}
+#user p{ margin-bottom:40px; margin-top:0;}
+.vmkoffice_buttons{text-align:center;padding-top:18px; margin-left:223px; } 
+/*.vmkoffice_buttons input{ padding:4px 10px;}*/
+.vmkoffice_datepicker{ background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/11.png) !important; border:none !important; background-repeat:no-repeat !important; background-position:right !important; cursor:pointer; font-size:15px;}
+#datepicker2,#datepicker3,#datepicker,#datepicker1{ background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/11.png) !important; border:none !important; background-repeat:no-repeat !important; background-position:right !important; cursor:pointer; font-size:15px;color:#272729;}
+#ui-datepicker-div{
+    overflow:hidden;
+ 
+    
+    width: 223px !important;
+   }
+   .ui-datepicker-calendar th span{ color:#000 !important;}
+ #cke_editor1 , #cke_editor2{ width:450px !important; margin-top:-37px; margin-left:207px; border:1px solid #469663;} 
+
+  #vmkoffice_content{ clear:both;}
+ .vmkoffice_eventsform{ width:500px; margin:auto;}
+  .vmkoffice_eventsform1 {margin-left:30px;}
+ .vmkoffice_eventsform1 #cke_editor1, .vmkoffice_eventsform1 #cke_editor2{ margin-left:194px;}
+/* .expensestable td{ font-size:14px;}*/
+ #title h2{ margin-bottom:0;}
+#client_user{ text-align:center; padding-left:0; margin-left:166px; clear:both; padding-top:1px;}
+#client_user p{ margin-bottom:40px;}
+.client_menu{ float:left !important; margin-left:132px !important;}
+.butt_sty{text-align:center; padding:10px;}
+.butt_sty input{background:url(http://www.vmkoffice.vmksoftwaresolutions.com/images/9.png) repeat-x; cursor:pointer; color:#fff;}
+.butt_sty a{text-decoration:none;}
+.prl{ text-align:center;}
+.using_positions{position:relative; top:45px;}
+.vmkoffice_buttons a{ text-decoration:none;}
+a{ cursor:pointer;}
+#expensestable a{ color:#272729;}
+#expensestable td{ color:#272729;}
+.expensestable1{margin:0 14px 0px;}
+..expensestable2{margin:0 20px 0;}
+.vmkoffice_mainone_accounts a{ text-decoration:none;}
+#cke_1_contents{ height:137px !important;}
+.vmkoffice_inputs_account  #cke_editor1 ,.vmkoffice_inputs_account  #cke_editor2{ width:709px !important; height:251px; margin-top:21px !important; margin-left:0 !important ; border:1px solid #ddd;} 
+.vmkoffice_accounts_button{text-align:center;padding-top:20px; clear:both;}
+.vmkoffice_inputs_account #togg{  width:170px !important;}
+.vmkoffice_inputs_account #show{ margin-left:8px;}
+.accounts_examples{clear:both;text-align:center; padding-left:547px;}
+.accounts_examples label{ color:red;}
+.bor_non{ border:none !important; padding:0 !important; margin-right:0 !important;}
+.error{color:red; font-size:12px !important;}
+#cke_45,#cke_5,#cke_7,#cke_31,#cke_35,#cke_40,#cke_43{ visibility:hidden;}
+#cke_17{ margin-top:-30px;}
+#cke_15{ margin-left:88px;}
+#cke_25{ margin-top:-30px;}
+#cke_42{ margin-top:-32px; margin-left:-96px;}
+.cke_top{ height:75px !important;}
+.breadcrome label a{ color:#469663;}
+.breadcrome{ padding-left:100px; padding-bottom:30px;}
+
+#text_error label{ position:relative; top:3px;}
+
+
+  .web_dialog_overlay
+        {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            background: #000000;
+            opacity: .15;
+            filter: alpha(opacity=15);
+            -moz-opacity: .15;
+            z-index: 101;
+            display: none;
+        }
+        .web_dialog
+        {
+            display: none;
+            position: fixed;
+            width: 740px;
+            overflow:hidden;
+            top: 18%;
+            left: 37%;
+            margin-left: -190px;
+            margin-top: -100px;
+            background-color: #ffffff;
+            border: 2px solid #469663;
+            padding: 0px;
+            z-index: 102;
+            font-family: Verdana;
+            font-size: 10pt;
+        }
+       
+		.web_dialog input[type="text"]{ width:186px !important;}
+		.web_dialog td{ font-size:11px !important;}
+		.web_dialog h3{ text-align:center; font-size:13px; text-decoration:underline;}
+		#track  .vmkoffice_inputs_account{ width:303px !important;}
+		#track .vmkoffice_labels_account{ width:166px !important;}
+.vmkoffice_inputs_account label{ margin-left:51px;}
+
+td select{ width:189px; border:1px solid #272729; color:#272729;}
+.vmkoffice_mainone_accounts select{ border:1px solid #ddd; color:#272729;}
+#selects_boxes{width:auto;}
+#selects_boxes label{ margin-left:8px;}
+ #selects_boxes select{width:80px;  height:29.5px; position:relative; top:-4px;}
+ #select_boxes_invoice input,#selects_boxes input{width:148px;}
+ #select_boxes_invoice select {width:80px;  height:29.5px; position:relative; top:-4px;}
+ #select_boxes_invoice label{ margin-left:4px;}
+ #invoices_left{padding-left:359px;}
+  #invoices_left .vmkoffice_labels_account{ width:214px;}
+  #error_repair label{ margin-left:55px;}
+  .logout_fresh1 span{ border-radius:4px;background:url("http://www.vmkoffice.vmksoftwaresolutions.com/images/13.png");  background-position:center; font:500 16px "Trebuchet MS",sans-serif; padding:4px 20px 12px 49px; border:1px solid #dddddd;}
+  .logout_fresh1 a{ text-decoration:none; color:#272729; position:relative; top:3px;}
+  .logout_fresh1{ float:right; position:relative; right:20px;}
+.logout_fresh1 img{ position:absolute; width:32px; height:29px; left:12px;}
+#footer{ clear:both;}
+.foos{ padding-top:40px;}
+.fresh_menu span:hover,#link a:hover,.link:hover,.logout_fresh1 a:hover,#submenu a:hover,#example_previous:hover,#example_next:hover,#example1_previous:hover,#example1_next:hover,.calendar th a:hover{ color:#23a8ed  !important; font-weight:bold;}
+.new_score{ padding-right:20px;float:right; padding-bottom:50px; padding-top:30px;}
+.new_score button{ font-weight:bold; background:url("http://www.vmkoffice.vmksoftwaresolutions.com/images/13.png") repeat-x scroll center center transparent;  padding:6px 6px; border:1px solid #DDDDDD !important; border-radius:4px 0 0 4px;}
+.new_score input { border:1px solid #DDDDDD ; cursor:auto; border-left:none; background:none; position:relative; right:6px;}
+.cal_menu ul li { margin-left:20px; list-style-type:none;float:left;}
+.cal_menu a{ text-decoration:none;}
+.color1{ color:green;}
+.color2{ color:purple;}
+.color3{ color:red;}
+.color4{ color:blue;}
+.cal_menu{ padding-bottom:20px;}
+.vmkoffice_mainone_accounts h2{text-align:left; font-size:14px; text-decoration:underline;}
+#proofs_new{
+			width:680px;}
+			#proofs_new1{
+			width:610px;}
+			#proofs_new span,#proofs_new1 span{ font-size:14px; color:#272729;}
+.leaves_concept th{ color:#272729;}		
+.new_seel{ text-align:center;}
+.new_seel a{ text-decoration:none;}
+.leaves_sen{ text-align:center;}
+.leaves_sen div{ margin-bottom:10px;}
+.dataTables_length{   float: left;
+    padding: 13px 0 0 26px;}
+	.dataTable .odd{background:#E8EDEF;}.dataTable .even{background:#D4DEE2;}
+	.dataTables_length select{width:111px;}
+.dataTables_filter{ float:right; width:300px; padding:10px 18px 10px 10px;}
+.dataTables_info{  padding:10px 26px 10px 10px; float:right;}
+#example_paginate,#example1_paginate{float:right; clear:both; padding-top:10px; padding-bottom:50px;}
+#example_paginate a,#example1_paginate a{ margin-right:20px;}
+
+#example_previous,#example_next,#example1_previous,#example1_next{ background:url("http://www.vmkoffice.vmksoftwaresolutions.com/images/13.png") repeat scroll center center transparent;   border-radius: 4px 4px 4px 4px;
+    font: 500 16px "Trebuchet MS",sans-serif;
+    padding: 8px 20px 12px 20px;}
+	#example_next,#example1_next{  padding: 8px 32px 12px 32px;}
+
+		.calendar {
+		font-size: 12px;
+		}
+	.calendar th{ text-align:center;  padding:8px 0px !important; padding-bottom:20px !important;}
+	.calendar th a{ color:#272729 !important;}
+		table.calendar {
+			margin: auto; border-collapse: collapse;
+			width:92%; 
+		}
+		.calendar .days td {
+			width: 80px; height: 80px; padding: 4px;
+			border: 1px solid #999;
+			vertical-align: top;
+			background-color: #DEF;
+		}
+		.calendar .days td:hover {
+			background-color: #FFF;
+		}
+		.calendar .highlight {
+			font-weight: bold; color:#F3F;
+		}
+			#footer{ padding:0 !important;}
+.calendar th a{background:url("http://www.vmkoffice.vmksoftwaresolutions.com/images/13.png") repeat scroll center center transparent;   border-radius: 4px 4px 4px 4px;
+    font: 500 16px "Trebuchet MS",sans-serif;
+    padding: 8px 20px 12px 20px;}
+	.graph_images_small{float:left; padding:10px 28px 10px 10px; width:544px; text-align:right; margin-top:-16px; font-size:12px;}
+
+#proofs_newsp{ color:#272729; font-size:13px;}
+.spaecial_eed{padding:5px 11px;  background: url(http://www.vmkoffice.vmksoftwaresolutions.com/images/13.png) repeat-x scroll center center transparent;
+    border: 1px solid #DDDDDD !important; border-radius: 5px 5px 5px 5px; color: #272729 !important;font: 500 13px "Trebuchet MS",sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;}
